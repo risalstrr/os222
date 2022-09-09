@@ -18,3 +18,4 @@ ZCZC W01 100 L02 ZOOM meetings OS
 ZCZC W01 100 L02 ZOOM meetings OS
 ZCZC W01 60 L06 Reading OS slides/book.
 ZCZC W01 60 L32 YouTube: watching OS related topics.
+ZCZC W01 13 L32 Watching 10 Linux Terminal Commands for Beginners
