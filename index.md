@@ -1,4 +1,4 @@
-[HOME](.) | [LOG](TXT/mylog.txt) | [LINKS](LINKS/) | [GitHub](https://github.com/risalstrr/os222)
+[HOME](.) | [LOG](TXT/mylog.txt) | [LINKS](https://risalstrr.github.io/os222/LINKS/) | [GitHub](https://github.com/risalstrr/os222)
 
 # Hello, World!
 
