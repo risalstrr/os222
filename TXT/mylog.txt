@@ -18,4 +18,11 @@ ZCZC W01 100 L02 ZOOM meetings OS
 ZCZC W01 100 L02 ZOOM meetings OS
 ZCZC W01 60 L06 Reading OS slides/book.
 ZCZC W01 60 L32 YouTube: watching OS related topics.
-ZCZC W01 13 L32 Watching 10 Linux Terminal Commands for Beginners
+ZCZC W01 60 L05 Quiz related including studying.
+ZCZC W01 20 L08 Ask Friend about the assignment.
+ZCZC W01 13 L32 Watching 10 Linux Terminal Commands for Beginners.
+ZCZC W01 120 L64 Helping a friend (OS related problem).
+ZCZC W01 15 L03 Github and git related, including commit and push.
+ZCZC W01 120 L70 Studying for os & other courses.
+ZCZC W01 120 L84 rest to charge mental energy.
+ZCZC W01 100 L21 Trying to learn something new in react.
