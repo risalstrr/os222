@@ -26,3 +26,5 @@ ZCZC W01 15 L03 Github and git related, including commit and push.
 ZCZC W01 120 L70 Studying for os & other courses.
 ZCZC W01 120 L84 rest to charge mental energy.
 ZCZC W01 100 L21 Trying to learn something new in react.
+ZCZC W02 100 L02 ZOOM meetings OS
+ZCZC W02 100 L02 ZOOM meetings OS
