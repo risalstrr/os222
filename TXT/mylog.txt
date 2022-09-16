@@ -30,3 +30,4 @@ ZCZC W02 100 L02 ZOOM meetings OS
 ZCZC W02 100 L02 ZOOM meetings OS
 ZCZC W02 120 L08 Asking Friend about the assignment.
 ZCZC W02 180 L09 Doing os week 2 assignment.
+ZCZC W02 120 L64 Helping a friend (OS related problem).
