@@ -34,3 +34,9 @@ ZCZC W02 180 L64 Helping a friend (OS related problem).
 ZCZC W02 180 L70 Studying for other courses.
 ZCZC W02 120 L70 Studying for other courses.
 ZCZC W02 3 L05 OS Quiz 
+ZCZC W03 100 L02 ZOOM meetings OS
+ZCZC W03 100 L02 ZOOM meetings OS
+ZCZC W03 120 L08 Asking Friend about the assignment.
+ZCZC W03 180 L70 Studying for other courses.
+ZCZC W03 120 L84 rest to charge mental energy.
+ZCZC W03 200 L32 YouTube: watching django rest framework.
