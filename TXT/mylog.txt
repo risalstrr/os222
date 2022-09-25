@@ -40,3 +40,4 @@ ZCZC W03 120 L08 Asking Friend about the assignment.
 ZCZC W03 180 L70 Studying for other courses.
 ZCZC W03 120 L84 rest to charge mental energy.
 ZCZC W03 200 L32 YouTube: watching django rest framework.
+ZCZC W03 200 L32 YouTube: watching nextjs in advanced.
