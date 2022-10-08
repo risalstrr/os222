@@ -54,4 +54,15 @@ ZCZC W04 120 L81 Listening spotify
 ZCZC W04 100 L88 Do Workout
 ZCZC W04 300 L70 Studying for other courses
 ZCZC W04 220 L64 Helping a friend (PBP related problem)
-
+ZCZC W05 100 L02 ZOOM meetings OS
+ZCZC W05 100 L02 ZOOM meetings OS
+ZCZC W05 200 L21 Trying to find new skills in webdev
+ZCZC W05 800 L21 Doing SDA Assignment
+ZCZC W05 3 L05 OS quiz
+ZCZC W05 5 L05 OS quiz
+ZCZC W05 100 L08 Asking friend about os assignment
+ZCZC W05 100 L09 Doing OS week 5 assignment
+ZCZC W05 200 L84 rest to charge mental energy
+ZCZC W05 100 L81 Listening spotify
+ZCZC W05 300 L70 Studying for other courses
+ZCZC W05 120 L64 Helping a friend (PBP related problem)
