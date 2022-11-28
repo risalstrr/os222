@@ -102,3 +102,15 @@ ZCZC W08 900 L09 Doing OS week 8 assignment
 ZCZC W08 200 L84 rest to charge mental energy
 ZCZC W08 300 L70 Studying for other courses
 ZCZC W08 120 L64 Helping a friend (PBP related problem)
+ZCZC W09 300 L70 Studying for other courses
+ZCZC W09 220 L64 Helping a friend (PBP related problem)
+ZCZC W09 100 L02 ZOOM meetings OS
+ZCZC W09 100 L02 ZOOM meetings OS
+ZCZC W09 800 L21 Doing SDA Assignment
+ZCZC W09 3 L05 OS quiz
+ZCZC W09 5 L05 OS quiz
+ZCZC W09 200 L08 Asking friend about os assignment
+ZCZC W09 900 L09 Doing OS week 8 assignment
+ZCZC W09 200 L84 rest to charge mental energy
+ZCZC W09 300 L70 Studying for other courses
+ZCZC W09 120 L64 Helping a friend (PBP related problem)
